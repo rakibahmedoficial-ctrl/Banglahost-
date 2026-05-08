@@ -1,0 +1,10 @@
+{
+  "name": "BengalHost",
+  "description": "Premium modern web hosting company in Bangladesh featuring shared hosting, VPS, domain registration, and secure payment integrations with bKash and Nagad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Firebase",
+    "Auth",
+    "Firestore"
+  ]
+}
